@@ -1,0 +1,11 @@
+official_name,country,owner,users,purpose,class_orbit,launch_date,expected_lifetime_years,contractor,launch_site,launch_vehicle
+AAUSat-4,NR,University of Aalborg,Civil,Earth Observation,LEO,4/25/2016,,University of Aalborg,Guiana Space Center,Soyuz 2.1a
+ABS-2,NR,Asia Broadcast Satellite Ltd.,Commercial,Communications,GEO,41792,15,Space Systems/Loral,Guiana Space Center,Ariane 5 ECA
+ABS-2A,NR,Asia Broadcast Satellite Ltd.,Commercial,Communications,GEO,6/15/2016,15,Boeing Satellite Systems,Cape Canaveral,Falcon 9
+ABS-3,Philippines,Asia Broadcast Satellite Ltd.,Commercial,Communications,GEO,8/19/1997,15,Space Systems/Loral,Xichang Satellite Launch Center,Long March CZ3B
+ABS-3A,NR,Asia Broadcast Satellite Ltd.,Commercial,Communications,GEO,42038,15,Boeing Satellite Systems,Cape Canaveral,Falcon 9
+ABS-4,NR,Asia Broadcast Satellite Ltd.,Commercial,Communications,GEO,3/13/2004,12,Space Systems/Loral,Cape Canaveral,Atlas 3
+ABS-6,NR,Asia Broadcast Satellite Ltd.,Commercial,Communications,GEO,9/26/1999,15,Lockheed Martin,Baikonur Cosmodrome,Proton
+ABS-7,South Korea,Asia Broadcast Satellite Ltd.,Commercial,Communications,GEO,36259,15,Lockheed Martin Astro Space,Guiana Space Center,Ariane
+USA 139,USA,National Reconnaissance Office (NRO),Military,Earth Observation,GEO,36043,,TRW Space and Electronics,Cape Canaveral,Titan IVA
+USA 171,USA,National Reconnaissance Office (NRO),Military,Earth Observation,GEO,37873,,TRW Space and Electronics,Cape Canaveral,Titan IV
