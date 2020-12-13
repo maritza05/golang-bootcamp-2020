@@ -19,7 +19,7 @@ func RegisterListSatellitesRoute(router *mux.Router, path string) {
 	if err != nil {
 		panic("Error while processing csv file")
 	}
-	service := app.NewDefaultSatelliteService(repository)
+	service := app.NewListSatelliteService(repository)
 	controller := rest.NewListSatelliteController(service)
 	router.HandleFunc(path, controller.GetAll).Methods(http.MethodGet)
 }
