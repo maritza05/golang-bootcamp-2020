@@ -128,3 +128,13 @@ For submitting your work, you should follow these steps:
 - [Packages](https://www.youtube.com/watch?v=sf7f4QGkwfE)
 - [Unit testing](https://golang.org/pkg/testing/)
 - [Functions as values](https://tour.golang.org/moretypes/24)
+
+
+https://blog.friendsofgo.tech/posts/como_testear_nuestra_api_en_go/
+https://medium.com/@matiasvarela/hexagonal-architecture-in-go-cfd4e436faa3
+https://rshipp.com/go-api-integration-testing/
+https://www.youtube.com/watch?v=uB_45bSIyik&ab_channel=PragmaticReviews
+---
+https://codeburst.io/unit-testing-for-rest-apis-in-go-86c70dada52d
+---
+http://go-database-sql.org/retrieving.html
